@@ -1,0 +1,9 @@
+package org.example.enums;
+
+public enum VehicleType {
+    MOTORCYCLE,
+    CAR,
+    TRUCK,
+    ELECTRIC_CAR,
+    ELECTRIC_MOTORCYCLE
+}
